@@ -12,7 +12,11 @@
 - 2024年 京都大学医学研究科 婦人科学産科学教室 入学
 
 ### 🎓 研究・助成金
-- 2024年 科学技術振興機構（JST）次世代AI人材育成プログラム 採択
+- 2024年 科学技術振興機構（JST）次世代AI人材育成プログラム 採択 ([詳細](https://www.jst.go.jp/jisedai/boost-s/))
+
+### 🏆 受賞歴・招待講演
+- 2024年 3月 The 5th J-K-T Exchange Program 台湾派遣
+- 2024年11月 第62回日本癌治療学会学術集会 会長企画教育シンポジウム ([詳細](https://congress.jsco.or.jp/jsco2024/index/page/id/198))
 
 ### 🎯 興味・関心
 - 臨床現場へのlarge language modelの 導入
@@ -35,7 +39,11 @@ I am an obstetrician and gynecologist conducting research at the Department of O
 - 2024 Enrolled in Graduate School of Medicine, Kyoto University (Department of Obstetrics and Gynecology)
 
 ### 🎓 Research & Grants
-- 2024 Selected for Japan Science and Technology Agency (JST) Fostering Researchers in Emerging AI Program (Support for Doctoral Students)
+- 2024 Selected for Japan Science and Technology Agency (JST) Fostering Researchers in Emerging AI Program (Support for Doctoral Students) ([Details](https://www.jst.go.jp/jisedai/boost-s/en/index.html))
+
+### 🏆 Awards & Invited Presentations
+- November 2024 Invited Educational Symposium, 62nd Annual Meeting of the Japanese Society of Medical Oncology ([Details](https://congress.jsco.or.jp/jsco2024/index/page/id/198))
+- March 2024 The 5th J-K-T Exchange Program Taiwan Dispatch
 
 ### 🎯 Interests
 - Application of large language models in clinical practice
