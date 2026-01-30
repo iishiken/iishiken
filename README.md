@@ -15,6 +15,7 @@
 - 2024年 科学技術振興機構（JST）次世代AI人材育成プログラム 採択 ([詳細](https://www.jst.go.jp/jisedai/boost-s/))
 
 ### 📝 業績
+- Ishida, K. et al. Detailed analysis of postoperative complications and oncological outcomes in pelvic exenteration: A propensity score weighted analysis based on Japanese multicenter cohort study. *European Journal of Surgical Oncology* 52(3), 111415 (2026). ([論文](https://pubmed.ncbi.nlm.nih.gov/41564851/))
 - Ishida, K., Murakami, R., Yamanoi, K. et al. Real-world application of large language models for automated TNM staging using unstructured gynecologic oncology reports. *npj Precision Oncology* 9, 366 (2025). ([論文](https://doi.org/10.1038/s41698-025-01157-4))
   - 関連: [YouTube](https://www.youtube.com/watch?v=bz6E9feGkkQ) | [CodeZine記事](https://codezine.jp/article/detail/22761)
 
@@ -47,6 +48,7 @@ I am an obstetrician and gynecologist conducting research at the Department of O
 - 2024 Selected for Japan Science and Technology Agency (JST) Fostering Researchers in Emerging AI Program (Support for Doctoral Students) ([Details](https://www.jst.go.jp/jisedai/boost-s/en/index.html))
 
 ### 📝 Publications
+- Ishida, K. et al. Detailed analysis of postoperative complications and oncological outcomes in pelvic exenteration: A propensity score weighted analysis based on Japanese multicenter cohort study. *European Journal of Surgical Oncology* 52(3), 111415 (2026). ([Paper](https://pubmed.ncbi.nlm.nih.gov/41564851/))
 - Ishida, K., Murakami, R., Yamanoi, K. et al. Real-world application of large language models for automated TNM staging using unstructured gynecologic oncology reports. *npj Precision Oncology* 9, 366 (2025). ([Paper](https://doi.org/10.1038/s41698-025-01157-4))
   - Related: [YouTube](https://www.youtube.com/watch?v=bz6E9feGkkQ) | [CodeZine Article](https://codezine.jp/article/detail/22761)
 
