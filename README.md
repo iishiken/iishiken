@@ -33,6 +33,8 @@ NEDO「AIの安全性確保に関する研究開発・検証等の推進事業�
 - 2024年11月 第62回日本癌治療学会学術集会 会長企画教育シンポジウム「生成AIを安全に応用する試み〜非構造化カルテ情報からのデータ抽出〜」
   ([詳細](https://congress.jsco.or.jp/jsco2024/index/page/id/198))
 - 2025年11月 第63回日本癌治療学会学術集会 会長企画シンポジウム11「大規模言語モデルを活用した腫瘍登録自動化システムの開発と評価」([YouTube](https://www.youtube.com/watch?v=Po5y6E9DAhc))
+- 2026年6月27日 第34回日本乳癌学会学術総会 パネルディスカッション9「AI・医療DXが拓く乳癌診療の新時代」にて「LLM駆動型臨床研究の実現に向けて〜カルテ情報の自動構造化から多施設共同研究への展開〜」を発表
+  ([詳細](https://www.jbcs2026.org/program.html))
 
 ### 🎯 興味・関心
 - 臨床現場へのlarge language modelの 導入
@@ -75,6 +77,7 @@ Contributed to medical workflow support, safety evaluation, and use-case validat
 - November 2024 Invited Educational Symposium, 62nd Annual Meeting of the Japanese Society of Medical Oncology ([Details](https://congress.jsco.or.jp/jsco2024/index/page/id/198))
 - March 2024 The 5th J-K-T Exchange Program Taiwan Dispatch
 - November 2025 Invited Symposium, 63rd Annual Meeting of the Japanese Society of Medical Oncology "Development and Evaluation of an Automated Tumor Registry System Using Large Language Models" ([YouTube](https://www.youtube.com/watch?v=Po5y6E9DAhc))
+- June 27, 2026 Panel Discussion 9, 34th Annual Meeting of the Japanese Breast Cancer Society, "A New Era of Breast Cancer Care Opened by AI and Medical DX": "Toward LLM-driven Clinical Research: From Automated Structuring of Medical Records to Expansion into Multicenter Collaborative Research" ([Details](https://www.jbcs2026.org/program.html))
 
 ### 🎯 Interests
 - Application of large language models in clinical practice
