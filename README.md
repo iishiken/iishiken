@@ -35,6 +35,8 @@ NEDO「AIの安全性確保に関する研究開発・検証等の推進事業�
 - 2025年11月 第63回日本癌治療学会学術集会 会長企画シンポジウム11「大規模言語モデルを活用した腫瘍登録自動化システムの開発と評価」([YouTube](https://www.youtube.com/watch?v=Po5y6E9DAhc))
 - 2026年6月27日 第34回日本乳癌学会学術総会 パネルディスカッション9「AI・医療DXが拓く乳癌診療の新時代」にて「LLM駆動型臨床研究の実現に向けて〜カルテ情報の自動構造化から多施設共同研究への展開〜」を発表
   ([詳細](https://www.jbcs2026.org/program.html))
+- Online Surgeons Platform（OSP）「生成AI事例検討会part1 〜私こうやって使ってます〜」([詳細](https://surgicalforce.co.jp/osp/entries/455))
+- Online Surgeons Platform（OSP）「生成AI事例検討会part2 〜診療・研究・医療DXへの実践編〜」([ARCHIVE](https://surgicalforce.co.jp/osp/entries/671))
 
 ### 🎯 興味・関心
 - 臨床現場へのlarge language modelの 導入
@@ -78,6 +80,8 @@ Contributed to medical workflow support, safety evaluation, and use-case validat
 - March 2024 The 5th J-K-T Exchange Program Taiwan Dispatch
 - November 2025 Invited Symposium, 63rd Annual Meeting of the Japanese Society of Medical Oncology "Development and Evaluation of an Automated Tumor Registry System Using Large Language Models" ([YouTube](https://www.youtube.com/watch?v=Po5y6E9DAhc))
 - June 27, 2026 Panel Discussion 9, 34th Annual Meeting of the Japanese Breast Cancer Society, "A New Era of Breast Cancer Care Opened by AI and Medical DX": "Toward LLM-driven Clinical Research: From Automated Structuring of Medical Records to Expansion into Multicenter Collaborative Research" ([Details](https://www.jbcs2026.org/program.html))
+- Online Surgeons Platform (OSP), "Generative AI Case Study Meeting Part 1: How I Use It" ([Details](https://surgicalforce.co.jp/osp/entries/455))
+- Online Surgeons Platform (OSP), "Generative AI Case Study Meeting Part 2: Practical Applications in Clinical Practice, Research, and Medical DX" ([Archive](https://surgicalforce.co.jp/osp/entries/671))
 
 ### 🎯 Interests
 - Application of large language models in clinical practice
