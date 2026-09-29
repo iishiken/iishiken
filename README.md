@@ -28,7 +28,7 @@
 #### 医療業務支援向け日本語LLM開発
 NEDO「AIの安全性確保に関する研究開発・検証等の推進事業／日本語版医療特化型LLMの社会実装に向けた安全性検証・実証」（[NEDO事業](https://www.nedo.go.jp/activities/ZZJP_100327.html)、[松尾・岩澤研究室 2026年5月発表](https://weblab.t.u-tokyo.ac.jp/news/2026-05-27/)）において、医療業務支援、安全性検証、社会実装を見据えたユースケース検証に関わった。
 
-- 成果物: [Hugging Face（weblab-LLM-M）](https://huggingface.co/weblab-LLM-M) — 本事業で開発された日本語医療特化型LLM（フルスクラッチ学習モデル [AscleLM-1-10B](https://huggingface.co/weblab-LLM-M/AscleLM-1-10B) など）を公開
+- 成果物: [Hugging Face（weblab-LLM-M）](https://huggingface.co/weblab-LLM-M) — 本事業で開発された日本語医療特化型LLM（Qwen3-235B に医療データで継続事前学習・事後学習を施した [Weblab-MedLLM-Qwen3-235B-Instruct](https://huggingface.co/weblab-LLM-M/Weblab-MedLLM-Qwen3-235B-Instruct) など）を公開
 
 ### 🏆 受賞歴・招待講演
 - 2024年 3月 The 5th J-K-T Exchange Program 台湾派遣
@@ -77,7 +77,7 @@ Contributed to LLM development, electronic health record data standardization, a
 #### Japanese LLM Development for Medical Workflow Support
 Contributed to medical workflow support, safety evaluation, and use-case validation toward social implementation through the NEDO project "Research, Development, and Verification for Ensuring AI Safety / Safety Verification and Demonstration Toward Social Implementation of Japanese Medical-Specialized LLMs" ([NEDO project](https://www.nedo.go.jp/activities/ZZJP_100327.html), [Matsuo-Iwasawa Laboratory May 2026 announcement](https://weblab.t.u-tokyo.ac.jp/news/2026-05-27/)).
 
-- Deliverables: [Hugging Face (weblab-LLM-M)](https://huggingface.co/weblab-LLM-M) — Japanese medical-specialized LLMs developed in this project, including the from-scratch model [AscleLM-1-10B](https://huggingface.co/weblab-LLM-M/AscleLM-1-10B)
+- Deliverables: [Hugging Face (weblab-LLM-M)](https://huggingface.co/weblab-LLM-M) — Japanese medical-specialized LLMs developed in this project, including [Weblab-MedLLM-Qwen3-235B-Instruct](https://huggingface.co/weblab-LLM-M/Weblab-MedLLM-Qwen3-235B-Instruct), a Qwen3-235B model continually pre-trained and post-trained on medical data
 
 ### 🏆 Awards & Invited Presentations
 - November 2024 Invited Educational Symposium, 62nd Annual Meeting of the Japanese Society of Medical Oncology ([Details](https://congress.jsco.or.jp/jsco2024/index/page/id/198))
