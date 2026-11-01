@@ -33,9 +33,9 @@ NEDO「AIの安全性確保に関する研究開発・検証等の推進事業�
 ### 🏆 受賞歴・招待講演
 - 2024年 3月 The 5th J-K-T Exchange Program 台湾派遣
 - 2024年10月9日 Online Surgeons Platform（OSP）「生成AI事例検討会part1 〜私こうやって使ってます〜」([詳細（要ログイン）](https://surgicalforce.co.jp/osp/entries/455))
-- 2024年11月 第62回日本癌治療学会学術集会 会長企画教育シンポジウム「生成AIを安全に応用する試み〜非構造化カルテ情報からのデータ抽出〜」
+- 2024年10月26日 第62回日本癌治療学会学術集会 会長企画教育シンポジウム2「医学・医療における生成AIの可能性と課題」にて「生成AIを安全に応用する試み〜非構造化カルテ情報からのデータ抽出〜」を発表
   ([詳細](https://congress.jsco.or.jp/jsco2024/index/page/id/198))
-- 2025年11月 第63回日本癌治療学会学術集会 会長企画シンポジウム11「大規模言語モデルを活用した腫瘍登録自動化システムの開発と評価」([YouTube](https://www.youtube.com/watch?v=Po5y6E9DAhc))
+- 2025年10月18日 第63回日本癌治療学会学術集会 会長企画シンポジウム11「大規模言語モデルを活用した腫瘍登録自動化システムの開発と評価」([YouTube](https://www.youtube.com/watch?v=Po5y6E9DAhc))
 - 2026年5月9日 Online Surgeons Platform（OSP）「生成AI事例検討会part2 〜診療・研究・医療DXへの実践編〜」([詳細（要ログイン）](https://surgicalforce.co.jp/osp/entries/671))
 - 2026年6月27日 第34回日本乳癌学会学術総会 パネルディスカッション9「AI・医療DXが拓く乳癌診療の新時代」にて「LLM駆動型臨床研究の実現に向けて〜カルテ情報の自動構造化から多施設共同研究への展開〜」を発表
   ([詳細](https://www.jbcs2026.org/program.html))
@@ -82,10 +82,10 @@ Contributed to medical workflow support, safety evaluation, and use-case validat
 - Deliverables: [Hugging Face (weblab-LLM-M)](https://huggingface.co/weblab-LLM-M) — Japanese medical-specialized LLMs developed in this project, including [Weblab-MedLLM-Qwen3-235B-Instruct](https://huggingface.co/weblab-LLM-M/Weblab-MedLLM-Qwen3-235B-Instruct), a Qwen3-235B model continually pre-trained and post-trained on medical data
 
 ### 🏆 Awards & Invited Presentations
-- November 2024 Invited Educational Symposium, 62nd Annual Meeting of the Japanese Society of Medical Oncology ([Details](https://congress.jsco.or.jp/jsco2024/index/page/id/198))
 - March 2024 The 5th J-K-T Exchange Program Taiwan Dispatch
 - October 9, 2024 Online Surgeons Platform (OSP), "Generative AI Case Study Meeting Part 1: How I Use It" ([Details (login required)](https://surgicalforce.co.jp/osp/entries/455))
-- November 2025 Invited Symposium, 63rd Annual Meeting of the Japanese Society of Medical Oncology "Development and Evaluation of an Automated Tumor Registry System Using Large Language Models" ([YouTube](https://www.youtube.com/watch?v=Po5y6E9DAhc))
+- October 26, 2024 Invited Educational Symposium 2, 62nd Annual Meeting of the Japanese Society of Medical Oncology, "Possibilities and Challenges of Generative AI in Medicine and Healthcare": "Safely Applying Generative AI: Data Extraction from Unstructured Medical Records" ([Details](https://congress.jsco.or.jp/jsco2024/index/page/id/198))
+- October 18, 2025 Invited Symposium 11, 63rd Annual Meeting of the Japanese Society of Medical Oncology "Development and Evaluation of an Automated Tumor Registry System Using Large Language Models" ([YouTube](https://www.youtube.com/watch?v=Po5y6E9DAhc))
 - May 9, 2026 Online Surgeons Platform (OSP), "Generative AI Case Study Meeting Part 2: Practical Applications in Clinical Practice, Research, and Medical DX" ([Details (login required)](https://surgicalforce.co.jp/osp/entries/671))
 - June 27, 2026 Panel Discussion 9, 34th Annual Meeting of the Japanese Breast Cancer Society, "A New Era of Breast Cancer Care Opened by AI and Medical DX": "Toward LLM-driven Clinical Research: From Automated Structuring of Medical Records to Expansion into Multicenter Collaborative Research" ([Details](https://www.jbcs2026.org/program.html))
 - October 22, 2026 Cross-disciplinary Symposium 1, 64th Annual Meeting of the Japanese Society of Medical Oncology, "Frontiers in Immune-related Adverse Event (irAE) Management: Practice and Challenges through Multidisciplinary and Regional Collaboration": "Automated Extraction of Immune-related Adverse Events from Large-scale Electronic Health Records Using LLMs" ([Details](https://congress.jsco.or.jp/jsco2026/index/page/id/198#cat-20))
